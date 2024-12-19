@@ -26,10 +26,10 @@
 			Simple and Lightweight Friends List Management for VRC
 		</h1>
 		<div class="mt-6 space-x-4">
-			<Button size="lg" variant="outline" href="https://github.com/uhKayla/Spectre">
+			<Button size="lg" variant="outline" href="https://github.com/kay-xr/Spectre">
 				Github
 			</Button>
-			<Button size="lg" href="https://github.com/uhKayla/Spectre/releases" >
+			<Button size="lg" href="https://github.com/kay-xr/Spectre/releases" >
 				Download
 			</Button>
 		</div>
